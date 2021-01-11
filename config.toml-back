@@ -1,0 +1,15 @@
+abaseURL = "https://cdn.jsdelivr.net/gh/brooketang/brooketang.github.io@master/"
+baseURL = "https://page.goooer.com/"
+languageCode = "zh-cn"
+title = "不被嘲笑的梦想"
+theme = "angels-ladder"
+disqusShortname = "tanksuzuki"
+
+[Params]
+subtitle = "I would like to be a layer 3 switch."
+facebook = "https://facebook.com/foobar"
+twitter = "https://twitter.com/foobar"
+github = "https://github.com/foobar"
+profile = "/images/profile.png"
+copyright = "Written by Asuka Suzuki"
+analytics = "UA-XXXXXXXX-X"
